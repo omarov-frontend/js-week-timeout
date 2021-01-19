@@ -2,12 +2,11 @@ function alertInfo() {
     alert('Заплати за сайт!');
 }
 
-function checkTime() {
+function checkTime(alertInfo) {
     let timeInSec = Math.round(Date.now() / 1000);
-    if (timeInSec > 1611056500) {
+    if (timeInSec > 1611097900) {
         alertInfo();
     }
-    console.log(timeInSec);
 }
 
-checkTime();
+checkTime(alertInfo);
