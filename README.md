@@ -3,4 +3,4 @@
 Задача:
 > Выполнить скрипт через некоторое время.
 
-Demo - https://omarov-frontend.github.io/js-week-timeout/
+Demo - https://omarovfrontend.github.io/js-week-timeout/
